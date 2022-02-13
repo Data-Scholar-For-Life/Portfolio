@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Page</title>
+    <link>https://data-scholar-for-life.github.io/portfolio/</link>
+    <description>Recent content on Andrew Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://data-scholar-for-life.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation of Date Timestamps Export</title>
+      <link>https://data-scholar-for-life.github.io/portfolio/portfolio/event-app-case-study/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scholar-for-life.github.io/portfolio/portfolio/event-app-case-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculating Closest Franchise Location to Client Location</title>
+      <link>https://data-scholar-for-life.github.io/portfolio/portfolio/case-study-one/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scholar-for-life.github.io/portfolio/portfolio/case-study-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dashboard Metrics for KPMS</title>
+      <link>https://data-scholar-for-life.github.io/portfolio/portfolio/recipe-app-ux-study/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scholar-for-life.github.io/portfolio/portfolio/recipe-app-ux-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting Revenue for Commercial Client</title>
+      <link>https://data-scholar-for-life.github.io/portfolio/portfolio/ux-case-study-for-agriculture-app/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scholar-for-life.github.io/portfolio/portfolio/ux-case-study-for-agriculture-app/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
